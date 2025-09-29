@@ -1,5 +1,5 @@
 
-## This repository explains about the modern travel landing page built with HTML and CSS
+### This repository explains about the modern travel landing page built with HTML and CSS
 
 ## Travel Landing Page
 
